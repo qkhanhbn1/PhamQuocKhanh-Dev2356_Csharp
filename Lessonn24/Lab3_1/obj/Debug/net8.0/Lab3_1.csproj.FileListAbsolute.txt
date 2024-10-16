@@ -1,0 +1,15 @@
+F:\dev2409gh-t2356\C#\PhamQuocKhanh-Dev2356_Csharp\Lesson24\Lab3_1\bin\Debug\net8.0\Lab3_1.exe
+F:\dev2409gh-t2356\C#\PhamQuocKhanh-Dev2356_Csharp\Lesson24\Lab3_1\bin\Debug\net8.0\Lab3_1.deps.json
+F:\dev2409gh-t2356\C#\PhamQuocKhanh-Dev2356_Csharp\Lesson24\Lab3_1\bin\Debug\net8.0\Lab3_1.runtimeconfig.json
+F:\dev2409gh-t2356\C#\PhamQuocKhanh-Dev2356_Csharp\Lesson24\Lab3_1\bin\Debug\net8.0\Lab3_1.dll
+F:\dev2409gh-t2356\C#\PhamQuocKhanh-Dev2356_Csharp\Lesson24\Lab3_1\bin\Debug\net8.0\Lab3_1.pdb
+F:\dev2409gh-t2356\C#\PhamQuocKhanh-Dev2356_Csharp\Lesson24\Lab3_1\obj\Debug\net8.0\Lab3_1.GeneratedMSBuildEditorConfig.editorconfig
+F:\dev2409gh-t2356\C#\PhamQuocKhanh-Dev2356_Csharp\Lesson24\Lab3_1\obj\Debug\net8.0\Lab3_1.AssemblyInfoInputs.cache
+F:\dev2409gh-t2356\C#\PhamQuocKhanh-Dev2356_Csharp\Lesson24\Lab3_1\obj\Debug\net8.0\Lab3_1.AssemblyInfo.cs
+F:\dev2409gh-t2356\C#\PhamQuocKhanh-Dev2356_Csharp\Lesson24\Lab3_1\obj\Debug\net8.0\Lab3_1.csproj.CoreCompileInputs.cache
+F:\dev2409gh-t2356\C#\PhamQuocKhanh-Dev2356_Csharp\Lesson24\Lab3_1\obj\Debug\net8.0\Lab3_1.sourcelink.json
+F:\dev2409gh-t2356\C#\PhamQuocKhanh-Dev2356_Csharp\Lesson24\Lab3_1\obj\Debug\net8.0\Lab3_1.dll
+F:\dev2409gh-t2356\C#\PhamQuocKhanh-Dev2356_Csharp\Lesson24\Lab3_1\obj\Debug\net8.0\refint\Lab3_1.dll
+F:\dev2409gh-t2356\C#\PhamQuocKhanh-Dev2356_Csharp\Lesson24\Lab3_1\obj\Debug\net8.0\Lab3_1.pdb
+F:\dev2409gh-t2356\C#\PhamQuocKhanh-Dev2356_Csharp\Lesson24\Lab3_1\obj\Debug\net8.0\Lab3_1.genruntimeconfig.cache
+F:\dev2409gh-t2356\C#\PhamQuocKhanh-Dev2356_Csharp\Lesson24\Lab3_1\obj\Debug\net8.0\ref\Lab3_1.dll
