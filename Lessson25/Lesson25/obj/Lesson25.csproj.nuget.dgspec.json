@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\dev2409gh-t2356\\C#\\PhamQuocKhanh-Dev2356_Csharp\\Lesson25\\Lesson25\\Lesson25.csproj": {}
+    "F:\\dev2409gh-t2356\\C#\\PhamQuocKhanh-Dev2356_Csharp\\Lessson25\\Lesson25\\Lesson25.csproj": {}
   },
   "projects": {
-    "F:\\dev2409gh-t2356\\C#\\PhamQuocKhanh-Dev2356_Csharp\\Lesson25\\Lesson25\\Lesson25.csproj": {
+    "F:\\dev2409gh-t2356\\C#\\PhamQuocKhanh-Dev2356_Csharp\\Lessson25\\Lesson25\\Lesson25.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\dev2409gh-t2356\\C#\\PhamQuocKhanh-Dev2356_Csharp\\Lesson25\\Lesson25\\Lesson25.csproj",
+        "projectUniqueName": "F:\\dev2409gh-t2356\\C#\\PhamQuocKhanh-Dev2356_Csharp\\Lessson25\\Lesson25\\Lesson25.csproj",
         "projectName": "Lesson25",
-        "projectPath": "F:\\dev2409gh-t2356\\C#\\PhamQuocKhanh-Dev2356_Csharp\\Lesson25\\Lesson25\\Lesson25.csproj",
+        "projectPath": "F:\\dev2409gh-t2356\\C#\\PhamQuocKhanh-Dev2356_Csharp\\Lessson25\\Lesson25\\Lesson25.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "F:\\dev2409gh-t2356\\C#\\PhamQuocKhanh-Dev2356_Csharp\\Lesson25\\Lesson25\\obj\\",
+        "outputPath": "F:\\dev2409gh-t2356\\C#\\PhamQuocKhanh-Dev2356_Csharp\\Lessson25\\Lesson25\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\dev2409gh-t2356\\C#\\PhamQuocKhanh-Dev2356_Csharp\\Lesson25\\Lab4_2\\Lab4_2.csproj",
+      "projectUniqueName": "F:\\dev2409gh-t2356\\C#\\PhamQuocKhanh-Dev2356_Csharp\\Lessson25\\Lab4_2\\Lab4_2.csproj",
       "projectName": "Lab4_2",
-      "projectPath": "F:\\dev2409gh-t2356\\C#\\PhamQuocKhanh-Dev2356_Csharp\\Lesson25\\Lab4_2\\Lab4_2.csproj",
+      "projectPath": "F:\\dev2409gh-t2356\\C#\\PhamQuocKhanh-Dev2356_Csharp\\Lessson25\\Lab4_2\\Lab4_2.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "F:\\dev2409gh-t2356\\C#\\PhamQuocKhanh-Dev2356_Csharp\\Lesson25\\Lab4_2\\obj\\",
+      "outputPath": "F:\\dev2409gh-t2356\\C#\\PhamQuocKhanh-Dev2356_Csharp\\Lessson25\\Lab4_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
