@@ -1,0 +1,15 @@
+F:\dev2409gh-t2356\C#\PhamQuocKhanh-Dev2356_Csharp\Lesson27\DemoArrayList\bin\Debug\net8.0\DemoArrayList.exe
+F:\dev2409gh-t2356\C#\PhamQuocKhanh-Dev2356_Csharp\Lesson27\DemoArrayList\bin\Debug\net8.0\DemoArrayList.deps.json
+F:\dev2409gh-t2356\C#\PhamQuocKhanh-Dev2356_Csharp\Lesson27\DemoArrayList\bin\Debug\net8.0\DemoArrayList.runtimeconfig.json
+F:\dev2409gh-t2356\C#\PhamQuocKhanh-Dev2356_Csharp\Lesson27\DemoArrayList\bin\Debug\net8.0\DemoArrayList.dll
+F:\dev2409gh-t2356\C#\PhamQuocKhanh-Dev2356_Csharp\Lesson27\DemoArrayList\bin\Debug\net8.0\DemoArrayList.pdb
+F:\dev2409gh-t2356\C#\PhamQuocKhanh-Dev2356_Csharp\Lesson27\DemoArrayList\obj\Debug\net8.0\DemoArrayList.GeneratedMSBuildEditorConfig.editorconfig
+F:\dev2409gh-t2356\C#\PhamQuocKhanh-Dev2356_Csharp\Lesson27\DemoArrayList\obj\Debug\net8.0\DemoArrayList.AssemblyInfoInputs.cache
+F:\dev2409gh-t2356\C#\PhamQuocKhanh-Dev2356_Csharp\Lesson27\DemoArrayList\obj\Debug\net8.0\DemoArrayList.AssemblyInfo.cs
+F:\dev2409gh-t2356\C#\PhamQuocKhanh-Dev2356_Csharp\Lesson27\DemoArrayList\obj\Debug\net8.0\DemoArrayList.csproj.CoreCompileInputs.cache
+F:\dev2409gh-t2356\C#\PhamQuocKhanh-Dev2356_Csharp\Lesson27\DemoArrayList\obj\Debug\net8.0\DemoArrayList.sourcelink.json
+F:\dev2409gh-t2356\C#\PhamQuocKhanh-Dev2356_Csharp\Lesson27\DemoArrayList\obj\Debug\net8.0\DemoArrayList.dll
+F:\dev2409gh-t2356\C#\PhamQuocKhanh-Dev2356_Csharp\Lesson27\DemoArrayList\obj\Debug\net8.0\refint\DemoArrayList.dll
+F:\dev2409gh-t2356\C#\PhamQuocKhanh-Dev2356_Csharp\Lesson27\DemoArrayList\obj\Debug\net8.0\DemoArrayList.pdb
+F:\dev2409gh-t2356\C#\PhamQuocKhanh-Dev2356_Csharp\Lesson27\DemoArrayList\obj\Debug\net8.0\DemoArrayList.genruntimeconfig.cache
+F:\dev2409gh-t2356\C#\PhamQuocKhanh-Dev2356_Csharp\Lesson27\DemoArrayList\obj\Debug\net8.0\ref\DemoArrayList.dll
