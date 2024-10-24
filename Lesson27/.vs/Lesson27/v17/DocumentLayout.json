@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "F:\\dev2409gh-t2356\\C#\\PhamQuocKhanh-Dev2356_Csharp\\Lesson27\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F7ABFDD-45CE-44D1-8E23-4EC264B3F8B3}|Bai6_3\\Bai6_3.csproj|f:\\dev2409gh-t2356\\c#\\phamquockhanh-dev2356_csharp\\lesson27\\bai6_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F7ABFDD-45CE-44D1-8E23-4EC264B3F8B3}|Bai6_3\\Bai6_3.csproj|solutionrelative:bai6_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D360702C-A466-472D-B3E5-B2AF4DDAA772}|Bai6_1\\Bai6_1.csproj|f:\\dev2409gh-t2356\\c#\\phamquockhanh-dev2356_csharp\\lesson27\\bai6_1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D360702C-A466-472D-B3E5-B2AF4DDAA772}|Bai6_1\\Bai6_1.csproj|solutionrelative:bai6_1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D360702C-A466-472D-B3E5-B2AF4DDAA772}|Bai6_1\\Bai6_1.csproj|f:\\dev2409gh-t2356\\c#\\phamquockhanh-dev2356_csharp\\lesson27\\bai6_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D360702C-A466-472D-B3E5-B2AF4DDAA772}|Bai6_1\\Bai6_1.csproj|solutionrelative:bai6_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F7ABFDD-45CE-44D1-8E23-4EC264B3F8B3}|Bai6_3\\Bai6_3.csproj|f:\\dev2409gh-t2356\\c#\\phamquockhanh-dev2356_csharp\\lesson27\\bai6_3\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F7ABFDD-45CE-44D1-8E23-4EC264B3F8B3}|Bai6_3\\Bai6_3.csproj|solutionrelative:bai6_3\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7ABFDD-45CE-44D1-8E23-4EC264B3F8B3}|Bai6_3\\Bai6_3.csproj|f:\\dev2409gh-t2356\\c#\\phamquockhanh-dev2356_csharp\\lesson27\\bai6_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7ABFDD-45CE-44D1-8E23-4EC264B3F8B3}|Bai6_3\\Bai6_3.csproj|solutionrelative:bai6_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,26 +30,53 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Car.cs",
               "DocumentMoniker": "F:\\dev2409gh-t2356\\C#\\PhamQuocKhanh-Dev2356_Csharp\\Lesson27\\Bai6_3\\Car.cs",
               "RelativeDocumentMoniker": "Bai6_3\\Car.cs",
               "ToolTip": "F:\\dev2409gh-t2356\\C#\\PhamQuocKhanh-Dev2356_Csharp\\Lesson27\\Bai6_3\\Car.cs",
               "RelativeToolTip": "Bai6_3\\Car.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAApAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T03:07:05.572Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "F:\\dev2409gh-t2356\\C#\\PhamQuocKhanh-Dev2356_Csharp\\Lesson27\\Bai6_1\\Book.cs",
+              "RelativeDocumentMoniker": "Bai6_1\\Book.cs",
+              "ToolTip": "F:\\dev2409gh-t2356\\C#\\PhamQuocKhanh-Dev2356_Csharp\\Lesson27\\Bai6_1\\Book.cs",
+              "RelativeToolTip": "Bai6_1\\Book.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:28:36.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\dev2409gh-t2356\\C#\\PhamQuocKhanh-Dev2356_Csharp\\Lesson27\\Bai6_1\\Program.cs",
+              "RelativeDocumentMoniker": "Bai6_1\\Program.cs",
+              "ToolTip": "F:\\dev2409gh-t2356\\C#\\PhamQuocKhanh-Dev2356_Csharp\\Lesson27\\Bai6_1\\Program.cs",
+              "RelativeToolTip": "Bai6_1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:28:09.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\dev2409gh-t2356\\C#\\PhamQuocKhanh-Dev2356_Csharp\\Lesson27\\Bai6_3\\Program.cs",
               "RelativeDocumentMoniker": "Bai6_3\\Program.cs",
               "ToolTip": "F:\\dev2409gh-t2356\\C#\\PhamQuocKhanh-Dev2356_Csharp\\Lesson27\\Bai6_3\\Program.cs",
               "RelativeToolTip": "Bai6_3\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T03:06:54.623Z",
               "EditorCaption": ""
