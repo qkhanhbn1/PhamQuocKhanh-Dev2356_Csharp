@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "F:\\dev2409gh-t2356\\C#\\PhamQuocKhanh-Dev2356_Csharp\\Lesson28\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD0898C4-6E22-4DA2-87DD-305A40FADA2E}|Bai07_3\\Bai07_3.csproj|f:\\dev2409gh-t2356\\c#\\phamquockhanh-dev2356_csharp\\lesson28\\bai07_3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD0898C4-6E22-4DA2-87DD-305A40FADA2E}|Bai07_3\\Bai07_3.csproj|solutionrelative:bai07_3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FD0898C4-6E22-4DA2-87DD-305A40FADA2E}|Bai07_3\\Bai07_3.csproj|f:\\dev2409gh-t2356\\c#\\phamquockhanh-dev2356_csharp\\lesson28\\bai07_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD0898C4-6E22-4DA2-87DD-305A40FADA2E}|Bai07_3\\Bai07_3.csproj|solutionrelative:bai07_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0898C4-6E22-4DA2-87DD-305A40FADA2E}|Bai07_3\\Bai07_3.csproj|f:\\dev2409gh-t2356\\c#\\phamquockhanh-dev2356_csharp\\lesson28\\bai07_3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0898C4-6E22-4DA2-87DD-305A40FADA2E}|Bai07_3\\Bai07_3.csproj|solutionrelative:bai07_3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\dev2409gh-t2356\\C#\\PhamQuocKhanh-Dev2356_Csharp\\Lesson28\\Bai07_3\\Program.cs",
               "RelativeDocumentMoniker": "Bai07_3\\Program.cs",
@@ -36,13 +36,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Student.cs",
               "DocumentMoniker": "F:\\dev2409gh-t2356\\C#\\PhamQuocKhanh-Dev2356_Csharp\\Lesson28\\Bai07_3\\Student.cs",
               "RelativeDocumentMoniker": "Bai07_3\\Student.cs",
               "ToolTip": "F:\\dev2409gh-t2356\\C#\\PhamQuocKhanh-Dev2356_Csharp\\Lesson28\\Bai07_3\\Student.cs",
               "RelativeToolTip": "Bai07_3\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T03:19:59.996Z",
               "EditorCaption": ""
